@@ -1,0 +1,290 @@
+[
+  {
+    "name": "Testing Labs",
+    "slug": "testing-labs",
+    "description": "State-licensed cannabis testing laboratories for potency, pesticides, heavy metals, microbials, and terpene profiling.",
+    "icon": "flask",
+    "color": "#3AA882",
+    "hero_title": "Find Cannabis Testing Labs by State",
+    "hero_subtitle": "Every legal state requires third-party lab testing. Find licensed labs that meet your state's compliance requirements.",
+    "pain_headline": "Stop guessing which labs your state actually accepts",
+    "content_pillar": "compliance",
+    "faqs": [
+      {"question": "What do cannabis testing labs test for?", "answer": "Licensed labs test for potency (THC/CBD percentages), pesticides, heavy metals, residual solvents, microbial contamination, mycotoxins, and terpene profiles. Requirements vary by state."},
+      {"question": "How do I choose a cannabis testing lab?", "answer": "Look for ISO 17025 accreditation, state-specific licensing, turnaround time under 5 business days, and transparent pricing. Ask about their testing methodology and whether they offer rush services."},
+      {"question": "How much does cannabis testing cost?", "answer": "Full compliance panels typically run $150-400 per sample depending on the state and tests required. Potency-only tests start around $50-75. Volume discounts are common for 10+ samples per month."}
+    ]
+  },
+  {
+    "name": "Compliance Consultants",
+    "slug": "compliance-consultants",
+    "description": "Regulatory compliance specialists helping cannabis businesses navigate state licensing, SOPs, and ongoing compliance requirements.",
+    "icon": "clipboard-check",
+    "color": "#2D8B6E",
+    "hero_title": "Cannabis Compliance Consultants by State",
+    "hero_subtitle": "State regulations change constantly. Find consultants who know your market's specific requirements.",
+    "pain_headline": "Your state just changed the rules again",
+    "content_pillar": "compliance",
+    "faqs": [
+      {"question": "What does a cannabis compliance consultant do?", "answer": "They help you navigate state licensing applications, develop standard operating procedures, prepare for inspections, manage seed-to-sale tracking, and stay current with regulatory changes. Some specialize in specific license types like cultivation or retail."},
+      {"question": "When should I hire a compliance consultant?", "answer": "Before you apply for a license. A good consultant saves months of back-and-forth with regulators and dramatically improves your approval odds. They also help during expansions, license renewals, and when regulations change."},
+      {"question": "How much do cannabis compliance consultants charge?", "answer": "Hourly rates range from $150-350. License application packages run $5,000-25,000 depending on state complexity. Ongoing compliance retainers typically cost $1,500-5,000 per month."}
+    ]
+  },
+  {
+    "name": "Cannabis Attorneys",
+    "slug": "cannabis-attorneys",
+    "description": "Lawyers specializing in cannabis law including licensing, regulatory compliance, intellectual property, and business transactions.",
+    "icon": "scale",
+    "color": "#D4915A",
+    "hero_title": "Cannabis Attorneys and Law Firms by State",
+    "hero_subtitle": "Federal-state conflicts make cannabis law uniquely complex. Find attorneys who specialize in your state's framework.",
+    "pain_headline": "One wrong filing can cost your license",
+    "content_pillar": "compliance",
+    "faqs": [
+      {"question": "Why do I need a cannabis-specific attorney?", "answer": "Cannabis operates in a legal gray zone between state and federal law. A general business attorney won't know 280E tax implications, state-specific advertising restrictions, or how to structure entities to protect your license. Cannabis attorneys handle these daily."},
+      {"question": "What services do cannabis attorneys provide?", "answer": "License applications, entity structuring, regulatory compliance, real estate transactions, employment law, intellectual property protection, M&A deals, and defense against regulatory enforcement actions."},
+      {"question": "How much do cannabis attorneys cost?", "answer": "Hourly rates run $250-600 for experienced cannabis attorneys. License applications are often flat-fee at $10,000-50,000 depending on the state. Retainers for ongoing counsel start around $2,500 per month."}
+    ]
+  },
+  {
+    "name": "Packaging & Labeling",
+    "slug": "packaging-labeling",
+    "description": "Compliant packaging suppliers for cannabis flower, edibles, concentrates, and topicals with state-specific labeling requirements.",
+    "icon": "package",
+    "color": "#5AA3D4",
+    "hero_title": "Cannabis Packaging and Labeling Companies",
+    "hero_subtitle": "Every state has different child-resistant, labeling, and exit bag requirements. Find suppliers who know yours.",
+    "pain_headline": "Non-compliant packaging gets pulled from shelves",
+    "content_pillar": "supply-chain",
+    "faqs": [
+      {"question": "What are cannabis packaging requirements?", "answer": "Most states require child-resistant packaging (ASTM D3475 certified), opaque containers, specific label information (THC content, warnings, batch numbers), and tamper-evident seals. Requirements vary significantly by state and product type."},
+      {"question": "How do I find compliant cannabis packaging?", "answer": "Work with suppliers who specialize in cannabis packaging and understand your state's specific requirements. Ask for compliance documentation, ASTM certifications, and references from operators in your state."},
+      {"question": "What's the typical lead time for custom cannabis packaging?", "answer": "Stock compliant packaging ships in 3-7 days. Custom printed packaging takes 4-8 weeks for initial orders. Plan 6-8 weeks ahead for new product launches to avoid using generic packaging."}
+    ]
+  },
+  {
+    "name": "Security Services",
+    "slug": "security-services",
+    "description": "Licensed security companies providing armed/unarmed guards, surveillance systems, alarm monitoring, and transport security for cannabis operations.",
+    "icon": "shield",
+    "color": "#C75D5D",
+    "hero_title": "Cannabis Security Services by State",
+    "hero_subtitle": "Every dispensary and cultivation facility needs licensed security. Find providers who meet your state's specific requirements.",
+    "pain_headline": "Your state mandates security. The question is who.",
+    "content_pillar": "compliance",
+    "faqs": [
+      {"question": "What security do cannabis businesses need?", "answer": "Most states require 24/7 video surveillance with 30-90 day retention, alarm systems, secure storage vaults, armed or unarmed guards during operating hours, and transport security for product movement. Specific requirements vary by license type."},
+      {"question": "How much does cannabis security cost?", "answer": "Surveillance systems run $10,000-50,000 for installation plus $200-500/month monitoring. Armed guards cost $25-45/hour. Unarmed guards run $18-28/hour. Transport security averages $500-1,500 per trip depending on distance and value."},
+      {"question": "Do I need cannabis-specific security providers?", "answer": "Yes. Cannabis security requires specific state licensing, understanding of seed-to-sale tracking, familiarity with regulatory inspection protocols, and experience with cash-heavy businesses. General security firms typically lack this expertise."}
+    ]
+  },
+  {
+    "name": "HVAC & Climate Control",
+    "slug": "hvac-climate-control",
+    "description": "Climate control specialists for indoor cultivation, processing facilities, and dispensaries including humidity, temperature, and air filtration systems.",
+    "icon": "thermometer",
+    "color": "#34A97B",
+    "hero_title": "Cannabis HVAC and Climate Control Providers",
+    "hero_subtitle": "Indoor cultivation lives or dies by climate control. Find contractors who understand cannabis-specific requirements.",
+    "pain_headline": "Bad HVAC ruins a harvest faster than pests",
+    "content_pillar": "supply-chain",
+    "faqs": [
+      {"question": "Why do cannabis grows need specialized HVAC?", "answer": "Cannabis cultivation requires precise temperature (68-82F), humidity (40-60% RH), CO2 supplementation, and air filtration that standard commercial HVAC can't deliver. Grows also produce significant heat and moisture that need specialized dehumidification."},
+      {"question": "How much does cannabis HVAC cost?", "answer": "Budget $30-80 per square foot of canopy for a complete climate control system. A 5,000 sq ft grow room typically runs $150,000-400,000 for HVAC installation. Operating costs add $3-8 per square foot monthly."},
+      {"question": "What should I look for in a cannabis HVAC contractor?", "answer": "Experience with sealed-room cultivation environments, ability to design for specific VPD targets, dehumidification expertise, familiarity with CO2 supplementation, and references from operating cannabis facilities in your climate zone."}
+    ]
+  },
+  {
+    "name": "Lighting & Equipment",
+    "slug": "lighting-equipment",
+    "description": "Grow lights, irrigation systems, extraction equipment, and commercial cultivation supplies for cannabis operations.",
+    "icon": "lightbulb",
+    "color": "#E5A872",
+    "hero_title": "Cannabis Lighting and Equipment Suppliers",
+    "hero_subtitle": "LED vs HPS, extraction rigs, irrigation. Find the equipment suppliers cannabis operators actually trust.",
+    "pain_headline": "The wrong lights cost you $50K in electricity before you notice",
+    "content_pillar": "supply-chain",
+    "faqs": [
+      {"question": "What type of grow lights should I use for cannabis?", "answer": "LED fixtures have become the industry standard due to 40-60% energy savings over HPS. Top commercial brands include Fluence, Gavita, and Mammoth. Match your light intensity (PPFD) to your canopy size and cultivation style."},
+      {"question": "How much does commercial grow equipment cost?", "answer": "Lighting runs $100-200 per square foot of canopy. Irrigation systems cost $5-15 per plant site. Extraction equipment ranges from $50,000 for basic BHO to $500,000+ for commercial CO2 systems. Budget 30-40% of total build-out for equipment."},
+      {"question": "Where can I find cannabis cultivation equipment?", "answer": "Specialized cannabis equipment distributors offer better pricing and technical support than general agricultural suppliers. Look for companies that provide facility design consultation along with equipment sales, as integration matters more than individual components."}
+    ]
+  },
+  {
+    "name": "Insurance Providers",
+    "slug": "insurance-providers",
+    "description": "Insurance brokers and carriers offering cannabis-specific coverage including product liability, crop, property, and general liability.",
+    "icon": "umbrella",
+    "color": "#9BAFA5",
+    "hero_title": "Cannabis Insurance Providers by State",
+    "hero_subtitle": "Most standard carriers won't touch cannabis. Find brokers who specialize in cannabis coverage.",
+    "pain_headline": "Your standard carrier just dropped you. Now what.",
+    "content_pillar": "compliance",
+    "faqs": [
+      {"question": "What insurance do cannabis businesses need?", "answer": "At minimum: general liability, product liability, property, workers' comp, and commercial auto. Most states require proof of insurance for licensing. Cultivation operations also need crop insurance. Dispensaries need theft coverage for cash and inventory."},
+      {"question": "Why is cannabis insurance so expensive?", "answer": "Federal illegality limits the carrier market, which keeps premiums high. A dispensary pays $5,000-15,000/year for general liability vs $1,000-3,000 for a comparable retail business. Premiums are dropping as more carriers enter the market, but slowly."},
+      {"question": "Can I get cannabis insurance from a regular broker?", "answer": "Most mainstream brokers can't place cannabis coverage because their carrier partners exclude it. Use a cannabis-specialized broker who works with admitted and surplus lines carriers that explicitly cover plant-touching businesses."}
+    ]
+  },
+  {
+    "name": "Accounting & Tax",
+    "slug": "accounting-tax",
+    "description": "CPAs and accounting firms specializing in cannabis tax compliance, 280E planning, cost accounting, and financial reporting.",
+    "icon": "calculator",
+    "color": "#D4915A",
+    "hero_title": "Cannabis Accountants and Tax Specialists",
+    "hero_subtitle": "280E makes cannabis tax uniquely brutal. Find CPAs who know how to minimize the damage legally.",
+    "pain_headline": "280E just ate 70% of your profit. There's a legal fix.",
+    "content_pillar": "compliance",
+    "faqs": [
+      {"question": "What is 280E and how does it affect cannabis businesses?", "answer": "Section 280E of the Internal Revenue Code denies tax deductions for businesses trafficking in controlled substances. Cannabis businesses can only deduct cost of goods sold, not normal operating expenses. This can push effective tax rates to 60-80% without proper planning."},
+      {"question": "How do cannabis businesses reduce their 280E tax burden?", "answer": "Proper cost accounting allocates maximum expenses to COGS (which is deductible). Entity structuring separates plant-touching from non-plant-touching activities. Transfer pricing between related entities can also help. A cannabis-specialized CPA is essential for this work."},
+      {"question": "How much do cannabis accounting services cost?", "answer": "Monthly bookkeeping runs $500-2,000. Tax preparation costs $2,000-10,000 depending on entity complexity. 280E planning and cost studies range from $5,000-25,000. The ROI is typically 10-50x the cost in tax savings."}
+    ]
+  },
+  {
+    "name": "Real Estate & Leasing",
+    "slug": "real-estate-leasing",
+    "description": "Commercial real estate brokers specializing in cannabis-zoned properties, lease negotiations, and site selection.",
+    "icon": "building",
+    "color": "#5C7A6E",
+    "hero_title": "Cannabis Real Estate and Leasing Services",
+    "hero_subtitle": "Zoning kills more cannabis projects than anything else. Find brokers who know which properties actually qualify.",
+    "pain_headline": "You signed a lease. Then found out the zoning doesn't work.",
+    "content_pillar": "supply-chain",
+    "faqs": [
+      {"question": "Why do I need a cannabis-specific real estate broker?", "answer": "Cannabis zoning is extremely restrictive. Most commercial properties don't qualify due to distance requirements from schools, parks, churches, and other cannabis businesses. A specialized broker pre-screens properties against local zoning codes before you waste time on tours."},
+      {"question": "What should I look for in a cannabis property?", "answer": "Proper zoning as the baseline. Then: adequate power capacity (cultivation needs 100+ watts/sqft), appropriate HVAC infrastructure, security features, loading dock access, ceiling height for indoor grows, and a landlord willing to lease to cannabis. Many landlords still refuse."},
+      {"question": "How long does it take to find a cannabis-compliant property?", "answer": "3-9 months in competitive markets like California or Colorado. In newer markets, 1-3 months. The timeline depends heavily on local zoning restrictions and how many municipalities in your state have opted in to allow cannabis businesses."}
+    ]
+  },
+  {
+    "name": "POS & Software",
+    "slug": "pos-software",
+    "description": "Point-of-sale systems, seed-to-sale tracking, inventory management, and business software built for cannabis operations.",
+    "icon": "monitor",
+    "color": "#3AA882",
+    "hero_title": "Cannabis POS and Software Solutions",
+    "hero_subtitle": "Seed-to-sale compliance isn't optional. Find software that actually integrates with your state's tracking system.",
+    "pain_headline": "Your POS doesn't talk to Metrc. That's a violation.",
+    "content_pillar": "supply-chain",
+    "faqs": [
+      {"question": "What software do cannabis businesses need?", "answer": "At minimum: a state-compliant POS system with seed-to-sale integration (Metrc, BioTrack, or Leaf Data), inventory management, and basic reporting. Growing businesses also need accounting software, CRM, HR/payroll, and delivery management platforms."},
+      {"question": "How much does cannabis POS software cost?", "answer": "Basic POS systems run $200-500/month per terminal. Enterprise solutions with full seed-to-sale integration cost $500-2,000/month. Payment processing adds 3-5% per transaction. Watch for long-term contracts and hardware rental fees."},
+      {"question": "Which cannabis POS systems integrate with Metrc?", "answer": "Dutchie, Treez, Flowhub, and Meadow all have certified Metrc integrations. Check your state's approved vendor list, as integration requirements and certified partners vary by state. Some states mandate specific tracking systems."}
+    ]
+  },
+  {
+    "name": "Marketing & Branding",
+    "slug": "marketing-branding",
+    "description": "Cannabis marketing agencies, branding firms, and digital specialists who understand cannabis advertising restrictions.",
+    "icon": "megaphone",
+    "color": "#E5A872",
+    "hero_title": "Cannabis Marketing and Branding Agencies",
+    "hero_subtitle": "Meta, Google, and most ad platforms ban cannabis ads. Find agencies that know how to grow without them.",
+    "pain_headline": "Every ad platform just rejected your campaign",
+    "content_pillar": "supply-chain",
+    "faqs": [
+      {"question": "Can cannabis businesses advertise online?", "answer": "Major platforms (Google, Meta, TikTok) prohibit cannabis advertising. Cannabis marketing relies on SEO, content marketing, email, SMS, programmatic display on cannabis-friendly networks, influencer partnerships, and community events. Some states also restrict billboard and print advertising."},
+      {"question": "How much should a cannabis business spend on marketing?", "answer": "Budget 8-15% of revenue for marketing. Dispensaries typically spend $3,000-15,000/month. New launches need heavier upfront investment in branding ($10,000-50,000) and website development ($5,000-25,000). SEO is the highest-ROI channel long-term."},
+      {"question": "What should I look for in a cannabis marketing agency?", "answer": "Cannabis-specific experience (not general agencies 'willing to try'), portfolio of compliant campaigns, understanding of state-by-state advertising restrictions, and proven results with SEO and owned media channels. Ask for case studies from operators in your state."}
+    ]
+  },
+  {
+    "name": "Transportation & Distribution",
+    "slug": "transportation-distribution",
+    "description": "Licensed cannabis transport companies, distribution services, and logistics providers for legal product movement.",
+    "icon": "truck",
+    "color": "#2D8B6E",
+    "hero_title": "Cannabis Transportation and Distribution Services",
+    "hero_subtitle": "Moving cannabis requires specific state licenses and manifests. Find transport companies that keep you compliant.",
+    "pain_headline": "You can't move product across state lines. You barely can within them.",
+    "content_pillar": "supply-chain",
+    "faqs": [
+      {"question": "What licenses do cannabis transporters need?", "answer": "Most states require a specific distribution or transport license. Vehicles need GPS tracking, locked storage compartments, and specific insurance coverage. Drivers often need background checks and state-issued transport agent credentials."},
+      {"question": "How much does cannabis transport cost?", "answer": "Local delivery runs $50-200 per trip. Statewide distribution costs $200-1,000+ depending on distance, volume, and security requirements. Some distributors take a percentage of wholesale value (10-20%) instead of flat fees."},
+      {"question": "Can cannabis be shipped across state lines?", "answer": "No. Interstate cannabis commerce is federally illegal regardless of state legalization status. All transport must stay within state borders. This means every state needs its own distribution infrastructure, which creates opportunities for local transport companies."}
+    ]
+  },
+  {
+    "name": "Staffing & HR",
+    "slug": "staffing-hr",
+    "description": "Cannabis staffing agencies, HR consultants, and recruiting firms specializing in cannabis industry talent.",
+    "icon": "users",
+    "color": "#5AA3D4",
+    "hero_title": "Cannabis Staffing and HR Services",
+    "hero_subtitle": "60%+ turnover in cannabis retail. Find staffing firms that actually understand the industry's hiring challenges.",
+    "pain_headline": "You just trained another budtender who left in 90 days",
+    "content_pillar": "supply-chain",
+    "faqs": [
+      {"question": "Why is cannabis staffing so challenging?", "answer": "High turnover (60%+ in retail), limited talent pool for technical roles (extraction, cultivation), background check complications from prior cannabis convictions, and compensation benchmarks that are still being established. Cannabis staffing agencies solve these problems daily."},
+      {"question": "What roles are hardest to fill in cannabis?", "answer": "Master growers, extraction technicians, compliance officers, and experienced dispensary managers are the hardest to recruit. Entry-level budtender roles are easy to fill but hard to retain. Executive roles increasingly attract talent from CPG and pharmaceutical industries."},
+      {"question": "How much do cannabis staffing agencies charge?", "answer": "Temporary staffing runs 30-50% markup on hourly wage. Direct hire placement fees are 15-25% of annual salary. Executive search retainers start at $15,000-30,000. Some agencies offer temp-to-hire at reduced placement fees."}
+    ]
+  },
+  {
+    "name": "Banking & Financial Services",
+    "slug": "banking-financial-services",
+    "description": "Cannabis-friendly banks, credit unions, payment processors, and financial service providers willing to serve the industry.",
+    "icon": "bank",
+    "color": "#D4915A",
+    "hero_title": "Cannabis Banking and Financial Services",
+    "hero_subtitle": "85% of banks won't open a cannabis account. Find the ones that will.",
+    "pain_headline": "Operating in all cash is expensive, dangerous, and unsustainable",
+    "content_pillar": "compliance",
+    "faqs": [
+      {"question": "Why can't cannabis businesses get bank accounts?", "answer": "Cannabis remains federally illegal, which creates risk for banks under the Bank Secrecy Act. Most national banks refuse cannabis accounts entirely. A growing number of regional banks and credit unions serve the industry, but they charge premium fees and require extensive compliance documentation."},
+      {"question": "How much does cannabis banking cost?", "answer": "Monthly account maintenance fees range from $750-2,500 (vs $10-50 for normal business accounts). Cash deposit fees run $500-1,500 per deposit. Some banks also charge a percentage of monthly revenue. Total banking costs typically run $2,000-5,000 per month."},
+      {"question": "What alternatives exist for cannabis payment processing?", "answer": "Cashless ATM (debit-based, in regulatory gray area), ACH transfers through cannabis-friendly processors, cryptocurrency, and closed-loop payment systems. True credit card processing remains unavailable for plant-touching businesses due to card network rules."}
+    ]
+  },
+  {
+    "name": "Waste Management",
+    "slug": "waste-management",
+    "description": "Licensed cannabis waste disposal, organic recycling, and compliant destruction services for cannabis byproducts.",
+    "icon": "recycle",
+    "color": "#34A97B",
+    "hero_title": "Cannabis Waste Management Services",
+    "hero_subtitle": "You can't just throw cannabis waste in a dumpster. Find disposal companies that keep you compliant.",
+    "pain_headline": "Improper waste disposal is a license-revoking offense",
+    "content_pillar": "compliance",
+    "faqs": [
+      {"question": "How must cannabis waste be disposed of?", "answer": "Most states require cannabis waste to be rendered unrecognizable and unusable by mixing with non-cannabis material (soil, food waste, paper). The mixture must be at least 50% non-cannabis by weight. Waste manifests and destruction records must be maintained for 3-7 years."},
+      {"question": "What does cannabis waste disposal cost?", "answer": "Pickup service runs $200-600 per visit for small operators. Monthly contracts for larger facilities cost $500-2,000. Some companies offer composting programs that reduce costs. Non-compliance fines start at $5,000 per violation, so the service pays for itself."},
+      {"question": "Can cannabis waste be composted?", "answer": "Yes, in most states. Cannabis plant waste (stalks, leaves, roots) can be composted if properly mixed and rendered unusable first. Some states allow on-site composting with proper documentation. Concentrate and edible waste usually requires off-site destruction."}
+    ]
+  },
+  {
+    "name": "Construction & Build-Out",
+    "slug": "construction-build-out",
+    "description": "General contractors and design-build firms specializing in dispensary build-outs, cultivation facilities, and processing centers.",
+    "icon": "hammer",
+    "color": "#B87A48",
+    "hero_title": "Cannabis Construction and Build-Out Services",
+    "hero_subtitle": "Dispensary build-outs and grow rooms have specific requirements that general contractors miss. Find specialists.",
+    "pain_headline": "Your contractor doesn't know what a clean room spec looks like",
+    "content_pillar": "supply-chain",
+    "faqs": [
+      {"question": "How much does a dispensary build-out cost?", "answer": "Budget $100-300 per square foot for a dispensary. A typical 2,000 sqft retail space runs $200,000-600,000 including design, permitting, security infrastructure, display cases, and point-of-sale areas. Premium locations in competitive markets run higher."},
+      {"question": "How long does a cannabis facility build-out take?", "answer": "Dispensaries: 3-6 months from permit to opening. Cultivation facilities: 6-12 months for indoor, 3-6 months for greenhouse. Processing labs: 4-8 months. Permitting often adds 2-4 months before construction begins, depending on local government efficiency."},
+      {"question": "What's unique about cannabis construction?", "answer": "Specific ventilation requirements for odor control, reinforced vault rooms, surveillance infrastructure, sealed clean rooms for processing, high-capacity electrical for cultivation lighting, specialized flooring for wet environments, and compliance with state-specific facility requirements."}
+    ]
+  },
+  {
+    "name": "Consulting (General)",
+    "slug": "consulting-general",
+    "description": "Business consultants, operations advisors, and strategic planners serving cannabis companies across all business functions.",
+    "icon": "briefcase",
+    "color": "#9BAFA5",
+    "hero_title": "Cannabis Business Consultants",
+    "hero_subtitle": "From license applications to exit strategy. Find consultants who've actually operated in cannabis.",
+    "pain_headline": "You're burning cash on problems someone else already solved",
+    "content_pillar": "supply-chain",
+    "faqs": [
+      {"question": "What do cannabis business consultants help with?", "answer": "License applications, business planning, operational SOPs, market analysis, facility design, staffing plans, financial modeling, investor relations, M&A advisory, and exit strategy. The best consultants have direct operating experience, not just advisory backgrounds."},
+      {"question": "How do I vet a cannabis consultant?", "answer": "Ask for specific results: license approvals, revenue growth numbers, operational improvements. Check references from current clients. Verify they have direct experience in your state and license type. Avoid consultants who promise guaranteed license approval."},
+      {"question": "What do cannabis consultants charge?", "answer": "Hourly rates run $100-300 for operational consultants, $200-500 for strategic advisors. License application packages cost $5,000-50,000 depending on state. Ongoing advisory retainers range from $2,000-10,000 per month. Some take equity or revenue share for startups."}
+    ]
+  }
+]

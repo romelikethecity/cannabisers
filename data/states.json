@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Alaska",
+    "abbrev": "AK",
+    "slug": "alaska",
+    "legal_status": "recreational",
+    "legal_since": "2014",
+    "license_url": "https://www.commerce.alaska.gov/web/amco/MarijuanaLicenses.aspx",
+    "regulatory_body": "Alcohol & Marijuana Control Office (AMCO)",
+    "regulatory_notes": "One of the first states to legalize. Remote geography creates unique supply chain challenges.",
+    "faqs": [
+      {"question": "Is cannabis legal in Alaska?", "answer": "Yes. Alaska legalized recreational cannabis in 2014 via ballot measure. Adults 21+ can purchase and possess up to one ounce. The state licenses cultivation, manufacturing, retail, and testing facilities through AMCO."},
+      {"question": "How do I get a cannabis license in Alaska?", "answer": "Apply through the Alcohol & Marijuana Control Office. License types include retail, cultivation, manufacturing, concentrate manufacturing, and testing. Applications require a premises diagram, operating plan, and local government approval."},
+      {"question": "What are Alaska's cannabis testing requirements?", "answer": "All cannabis must be tested by a licensed testing facility for potency, residual solvents, pesticides, mold, and other contaminants before sale. Testing labs must maintain ISO 17025 accreditation."}
+    ]
+  },
+  {
+    "name": "Arizona",
+    "abbrev": "AZ",
+    "slug": "arizona",
+    "legal_status": "recreational",
+    "legal_since": "2020",
+    "license_url": "https://azdhs.gov/licensing/marijuana/index.php",
+    "regulatory_body": "Arizona Department of Health Services",
+    "regulatory_notes": "Fast-growing market since 2020 recreational legalization. Dual-use licenses for medical and recreational.",
+    "faqs": [
+      {"question": "Is cannabis legal in Arizona?", "answer": "Yes. Arizona legalized recreational cannabis in 2020 via Proposition 207. Adults 21+ can purchase up to one ounce (5g concentrate limit). Medical cannabis has been legal since 2010."},
+      {"question": "How many cannabis licenses does Arizona issue?", "answer": "Arizona initially capped recreational licenses tied to existing medical dispensaries, with additional social equity licenses being awarded. The state has over 130 licensed dispensaries operating in both medical and recreational markets."},
+      {"question": "What makes Arizona's cannabis market unique?", "answer": "Arizona allows dual-use licenses (medical and recreational from the same location), has a large tourist population in Phoenix and Scottsdale, and borders multiple states where cannabis remains illegal, creating strong demand."}
+    ]
+  },
+  {
+    "name": "California",
+    "abbrev": "CA",
+    "slug": "california",
+    "legal_status": "recreational",
+    "legal_since": "2016",
+    "license_url": "https://cannabis.ca.gov/applicants/",
+    "regulatory_body": "Department of Cannabis Control (DCC)",
+    "regulatory_notes": "Largest legal cannabis market in the US. Complex local permitting on top of state licensing.",
+    "faqs": [
+      {"question": "Is cannabis legal in California?", "answer": "Yes. California legalized recreational cannabis in 2016 via Proposition 64. Adults 21+ can purchase up to one ounce of flower or 8 grams of concentrate. Medical cannabis has been legal since 1996."},
+      {"question": "How do I get a cannabis license in California?", "answer": "Apply through the Department of Cannabis Control. You also need local approval, which varies dramatically by city and county. Many municipalities still ban cannabis businesses. License types include cultivation, manufacturing, distribution, retail, testing, and microbusiness."},
+      {"question": "Why is California's cannabis market so competitive?", "answer": "California has over 10,000 licensed cannabis businesses plus a large illicit market. High taxes (up to 38% effective rate in some cities), expensive real estate, and complex dual state/local licensing make it the most challenging but largest market in the country."}
+    ]
+  },
+  {
+    "name": "Colorado",
+    "abbrev": "CO",
+    "slug": "colorado",
+    "legal_status": "recreational",
+    "legal_since": "2012",
+    "license_url": "https://sbg.colorado.gov/med",
+    "regulatory_body": "Marijuana Enforcement Division (MED)",
+    "regulatory_notes": "First state to open recreational sales (Jan 2014). Mature, competitive market with well-established regulations.",
+    "faqs": [
+      {"question": "Is cannabis legal in Colorado?", "answer": "Yes. Colorado was the first state to legalize recreational cannabis, passing Amendment 64 in 2012 with sales starting in January 2014. Adults 21+ can purchase up to one ounce."},
+      {"question": "How mature is Colorado's cannabis market?", "answer": "Colorado is one of the most mature cannabis markets in the US with over a decade of legal sales. The market has consolidated significantly, with many small operators exiting due to oversupply and price compression. Ancillary service providers are well-established."},
+      {"question": "What licensing does Colorado require?", "answer": "Colorado licenses cultivation, manufacturing, retail, testing, and transport through the Marijuana Enforcement Division. The state also requires all cannabis employees to obtain a Marijuana Occupational License (badge)."}
+    ]
+  },
+  {
+    "name": "Connecticut",
+    "abbrev": "CT",
+    "slug": "connecticut",
+    "legal_status": "recreational",
+    "legal_since": "2021",
+    "license_url": "https://portal.ct.gov/DCP/Medical-Marijuana-Program",
+    "regulatory_body": "Department of Consumer Protection",
+    "regulatory_notes": "Newer recreational market with strong social equity provisions. Medical program established since 2012.",
+    "faqs": [
+      {"question": "Is cannabis legal in Connecticut?", "answer": "Yes. Connecticut legalized recreational cannabis in 2021, with adult-use sales beginning in 2023. Adults 21+ can possess up to 1.5 ounces on person and up to 5 ounces at home."},
+      {"question": "What social equity programs does Connecticut offer?", "answer": "Connecticut's cannabis law includes strong social equity provisions, with 50% of licenses reserved for social equity applicants. The state also provides technical assistance, reduced fees, and access to capital programs."},
+      {"question": "How many cannabis licenses has Connecticut issued?", "answer": "Connecticut is issuing licenses in phases, starting with converted medical dispensaries and adding new retail, cultivation, and manufacturing licenses through a competitive application process with social equity priority."}
+    ]
+  },
+  {
+    "name": "Delaware",
+    "abbrev": "DE",
+    "slug": "delaware",
+    "legal_status": "recreational",
+    "legal_since": "2023",
+    "license_url": "https://marijuana.delaware.gov/",
+    "regulatory_body": "Office of the Marijuana Commissioner",
+    "regulatory_notes": "Recently legalized recreational cannabis. Market still developing.",
+    "faqs": [
+      {"question": "Is cannabis legal in Delaware?", "answer": "Yes. Delaware legalized recreational cannabis in 2023. The state is currently developing its regulatory framework and licensing process for adult-use sales."},
+      {"question": "When will Delaware start recreational sales?", "answer": "Delaware is in the process of establishing its adult-use market. Medical cannabis has been available since 2011. Check the Office of the Marijuana Commissioner for current licensing timelines."},
+      {"question": "What types of cannabis licenses will Delaware offer?", "answer": "Delaware plans to offer cultivation, manufacturing, retail, and testing licenses for adult-use cannabis. The state is also considering social equity provisions in its licensing framework."}
+    ]
+  },
+  {
+    "name": "Florida",
+    "abbrev": "FL",
+    "slug": "florida",
+    "legal_status": "medical",
+    "legal_since": "2016",
+    "license_url": "https://knowthefactsmmj.com/",
+    "regulatory_body": "Office of Medical Marijuana Use (OMMU)",
+    "regulatory_notes": "Large medical market with vertically integrated licenses. Recreational ballot measure narrowly failed in 2024.",
+    "faqs": [
+      {"question": "Is cannabis legal in Florida?", "answer": "Medical cannabis is legal in Florida since 2016 (Amendment 2). Recreational cannabis remains illegal. A 2024 ballot measure to legalize adult-use fell short of the 60% supermajority required."},
+      {"question": "How does Florida's cannabis market work?", "answer": "Florida uses a vertically integrated model where each licensed operator must cultivate, process, and dispense their own products. This limits licenses to well-capitalized companies. The state has over 700,000 registered medical patients."},
+      {"question": "How many cannabis licenses does Florida have?", "answer": "Florida has a limited number of Medical Marijuana Treatment Center (MMTC) licenses, currently around 25. Each license allows statewide operations including multiple dispensary locations, making Florida licenses among the most valuable in the country."}
+    ]
+  },
+  {
+    "name": "Illinois",
+    "abbrev": "IL",
+    "slug": "illinois",
+    "legal_status": "recreational",
+    "legal_since": "2019",
+    "license_url": "https://idfpr.illinois.gov/profs/cannabis.html",
+    "regulatory_body": "Illinois Department of Financial and Professional Regulation",
+    "regulatory_notes": "First state to legalize recreational cannabis through legislation (not ballot). Strong tax revenue generator.",
+    "faqs": [
+      {"question": "Is cannabis legal in Illinois?", "answer": "Yes. Illinois legalized recreational cannabis in 2019, becoming the first state to do so through legislative action rather than a ballot measure. Sales began January 2020. Adults 21+ can purchase up to 30g flower, 5g concentrate, or 500mg THC edibles."},
+      {"question": "How competitive is Illinois' cannabis market?", "answer": "Very competitive. Illinois generates over $1.5 billion in annual cannabis sales with limited licenses. The state has faced controversy over its social equity licensing program, with delays and legal challenges. Established operators have significant market advantages."},
+      {"question": "What are Illinois' cannabis tax rates?", "answer": "Illinois taxes cannabis based on THC content: 10% for flower under 35% THC, 20% for infused products, and 25% for products over 35% THC. Add 6.25% state sales tax plus up to 3% local tax. Effective rates can exceed 35%."}
+    ]
+  },
+  {
+    "name": "Maine",
+    "abbrev": "ME",
+    "slug": "maine",
+    "legal_status": "recreational",
+    "legal_since": "2016",
+    "license_url": "https://www.maine.gov/dafs/ocp/",
+    "regulatory_body": "Office of Cannabis Policy",
+    "regulatory_notes": "Recreational since 2016 with sales starting in 2020. Supports small-scale craft cannabis cultivation.",
+    "faqs": [
+      {"question": "Is cannabis legal in Maine?", "answer": "Yes. Maine legalized recreational cannabis in 2016 via ballot measure. Adult-use sales began in October 2020 after a lengthy regulatory development period."},
+      {"question": "What makes Maine's cannabis market unique?", "answer": "Maine supports small-scale craft cannabis cultivation and has a strong caregiver program for medical cannabis. The state has no license caps and a relatively low barrier to entry compared to states like Illinois or New Jersey."},
+      {"question": "What are Maine's cannabis testing requirements?", "answer": "Maine requires mandatory testing for potency, pesticides, heavy metals, moisture content, and microbials. Testing must be performed by state-licensed independent laboratories."}
+    ]
+  },
+  {
+    "name": "Maryland",
+    "abbrev": "MD",
+    "slug": "maryland",
+    "legal_status": "recreational",
+    "legal_since": "2022",
+    "license_url": "https://mmcc.maryland.gov/",
+    "regulatory_body": "Maryland Cannabis Administration",
+    "regulatory_notes": "Recreational approved by voters in 2022. Adult-use sales began July 2023.",
+    "faqs": [
+      {"question": "Is cannabis legal in Maryland?", "answer": "Yes. Maryland voters approved recreational cannabis in 2022, with adult-use sales beginning July 2023. Adults 21+ can possess up to 1.5 ounces and purchase from licensed dispensaries."},
+      {"question": "How is Maryland's cannabis market structured?", "answer": "Maryland converted existing medical dispensaries to dual-use and is issuing new licenses with social equity priority. The market is growing rapidly given proximity to Washington DC and Virginia."},
+      {"question": "What are Maryland's cannabis regulations?", "answer": "The Maryland Cannabis Administration oversees all licensing and enforcement. The state requires seed-to-sale tracking, mandatory testing, and compliance with advertising restrictions. Social equity applicants receive priority for new licenses."}
+    ]
+  },
+  {
+    "name": "Massachusetts",
+    "abbrev": "MA",
+    "slug": "massachusetts",
+    "legal_status": "recreational",
+    "legal_since": "2016",
+    "license_url": "https://masscannabiscontrol.com/",
+    "regulatory_body": "Cannabis Control Commission",
+    "regulatory_notes": "First east coast state with recreational sales. Host community agreements add complexity.",
+    "faqs": [
+      {"question": "Is cannabis legal in Massachusetts?", "answer": "Yes. Massachusetts legalized recreational cannabis in 2016 with sales beginning in November 2018. Adults 21+ can purchase up to one ounce of flower or 5 grams of concentrate."},
+      {"question": "What are host community agreements in Massachusetts?", "answer": "Massachusetts requires cannabis businesses to negotiate Host Community Agreements (HCAs) with their local municipality. These agreements can include community impact fees of up to 3% of gross sales, creating additional costs and complexity."},
+      {"question": "How many cannabis licenses does Massachusetts have?", "answer": "Massachusetts has issued several hundred licenses across cultivation, manufacturing, retail, testing, and transport categories. The Cannabis Control Commission prioritizes social equity and economic empowerment applicants in the licensing process."}
+    ]
+  },
+  {
+    "name": "Michigan",
+    "abbrev": "MI",
+    "slug": "michigan",
+    "legal_status": "recreational",
+    "legal_since": "2018",
+    "license_url": "https://www.michigan.gov/cra",
+    "regulatory_body": "Cannabis Regulatory Agency (CRA)",
+    "regulatory_notes": "Large market with aggressive growth. Significant price compression due to oversupply.",
+    "faqs": [
+      {"question": "Is cannabis legal in Michigan?", "answer": "Yes. Michigan legalized recreational cannabis in 2018 via Proposal 1. Adults 21+ can possess up to 2.5 ounces and purchase from licensed retailers. Michigan is one of the largest cannabis markets in the US."},
+      {"question": "Why are Michigan cannabis prices dropping?", "answer": "Michigan experienced aggressive license issuance that created oversupply. Wholesale flower prices have dropped significantly, putting pressure on cultivators and creating opportunities for buyers. The market is consolidating as smaller operators exit."},
+      {"question": "What cannabis licenses does Michigan offer?", "answer": "Michigan offers grower (Class A/B/C by plant count), processor, retailer, secure transporter, safety compliance facility (testing), and excess marijuana grower licenses. The state also has a caregiver program for medical patients."}
+    ]
+  },
+  {
+    "name": "Minnesota",
+    "abbrev": "MN",
+    "slug": "minnesota",
+    "legal_status": "recreational",
+    "legal_since": "2023",
+    "license_url": "https://mn.gov/ocm/",
+    "regulatory_body": "Office of Cannabis Management",
+    "regulatory_notes": "Legalized in 2023. Market still in early development with licensing underway.",
+    "faqs": [
+      {"question": "Is cannabis legal in Minnesota?", "answer": "Yes. Minnesota legalized recreational cannabis in 2023. The state is developing its regulatory framework and licensing process, with adult-use sales expected to begin in early 2025."},
+      {"question": "When will Minnesota start cannabis sales?", "answer": "Minnesota is building its regulatory infrastructure through the Office of Cannabis Management. Adult-use retail sales are projected to begin in 2025, with the medical program continuing to operate during the transition."},
+      {"question": "What cannabis licenses will Minnesota offer?", "answer": "Minnesota plans to offer licenses for cultivation, manufacturing, retail, testing, transport, and microbusiness operations. The law includes social equity provisions and lower-barrier licenses for smaller operators."}
+    ]
+  },
+  {
+    "name": "Missouri",
+    "abbrev": "MO",
+    "slug": "missouri",
+    "legal_status": "recreational",
+    "legal_since": "2022",
+    "license_url": "https://health.mo.gov/safety/cannabis/",
+    "regulatory_body": "Missouri Department of Health and Senior Services",
+    "regulatory_notes": "Recreational approved 2022 with sales starting February 2023. Rapid revenue growth.",
+    "faqs": [
+      {"question": "Is cannabis legal in Missouri?", "answer": "Yes. Missouri voters approved recreational cannabis in 2022 via Amendment 3. Adult-use sales began in February 2023. Adults 21+ can purchase up to 3 ounces of flower."},
+      {"question": "How fast is Missouri's cannabis market growing?", "answer": "Missouri's market grew rapidly after recreational launch, reaching over $100 million in monthly sales within the first year. The state benefits from strong demand and limited competition from neighboring states where cannabis remains illegal."},
+      {"question": "What are Missouri's cannabis license types?", "answer": "Missouri offers cultivation, manufacturing, dispensary, testing, transport, and comprehensive (vertically integrated) licenses. The state also includes microbusiness licenses with lower capital requirements for smaller operators."}
+    ]
+  },
+  {
+    "name": "Montana",
+    "abbrev": "MT",
+    "slug": "montana",
+    "legal_status": "recreational",
+    "legal_since": "2020",
+    "license_url": "https://mtrevenue.gov/cannabis/",
+    "regulatory_body": "Montana Department of Revenue",
+    "regulatory_notes": "Recreational since 2020. Small but growing market with rural geography challenges.",
+    "faqs": [
+      {"question": "Is cannabis legal in Montana?", "answer": "Yes. Montana legalized recreational cannabis in 2020 via Initiative 190. Adults 21+ can possess up to one ounce. Sales began January 2022."},
+      {"question": "What are Montana's cannabis regulations?", "answer": "Montana regulates cannabis through the Department of Revenue. The state requires seed-to-sale tracking, mandatory testing, and compliance with local government opt-in requirements. Counties and municipalities can choose to prohibit cannabis businesses."},
+      {"question": "How does Montana's geography affect cannabis businesses?", "answer": "Montana's low population density and vast geography create unique distribution challenges. Transport costs are higher, and many rural areas have opted out of allowing cannabis businesses, concentrating the market in cities like Billings, Missoula, and Great Falls."}
+    ]
+  },
+  {
+    "name": "Nevada",
+    "abbrev": "NV",
+    "slug": "nevada",
+    "legal_status": "recreational",
+    "legal_since": "2016",
+    "license_url": "https://ccb.nv.gov/",
+    "regulatory_body": "Cannabis Compliance Board",
+    "regulatory_notes": "Tourism-driven market centered on Las Vegas. Limited licenses maintain high values.",
+    "faqs": [
+      {"question": "Is cannabis legal in Nevada?", "answer": "Yes. Nevada legalized recreational cannabis in 2016 via Question 2. Adults 21+ can purchase up to one ounce of flower or 3.5g of concentrate. Cannabis consumption lounges are also licensed in Nevada."},
+      {"question": "Why is Nevada's cannabis market unique?", "answer": "Las Vegas tourism drives significant cannabis sales, with many dispensaries located near the Strip. Nevada also pioneered cannabis consumption lounges, allowing on-site consumption. The state maintains limited license numbers, keeping values high."},
+      {"question": "What does Nevada's Cannabis Compliance Board do?", "answer": "The CCB oversees all cannabis licensing, regulation, and enforcement in Nevada. They handle license applications, renewals, compliance inspections, and disciplinary actions. The board replaced the previous Department of Taxation oversight."}
+    ]
+  },
+  {
+    "name": "New Jersey",
+    "abbrev": "NJ",
+    "slug": "new-jersey",
+    "legal_status": "recreational",
+    "legal_since": "2020",
+    "license_url": "https://www.nj.gov/cannabis/",
+    "regulatory_body": "Cannabis Regulatory Commission (CRC)",
+    "regulatory_notes": "Large east coast market with proximity to NYC. Slow license rollout but high demand.",
+    "faqs": [
+      {"question": "Is cannabis legal in New Jersey?", "answer": "Yes. New Jersey legalized recreational cannabis in 2020 via ballot measure. Adult-use sales began in April 2022. Adults 21+ can purchase up to one ounce of flower."},
+      {"question": "How big is New Jersey's cannabis market?", "answer": "New Jersey benefits from proximity to New York City and Philadelphia, drawing customers from across the region. The state generates significant cannabis tax revenue, though license rollout has been slower than anticipated."},
+      {"question": "What license types does New Jersey offer?", "answer": "New Jersey offers cultivator, manufacturer, retailer, wholesaler, distributor, delivery, and testing lab licenses. The state also has conditional and annual license tiers, with micro-licenses for smaller operators."}
+    ]
+  },
+  {
+    "name": "New Mexico",
+    "abbrev": "NM",
+    "slug": "new-mexico",
+    "legal_status": "recreational",
+    "legal_since": "2021",
+    "license_url": "https://www.rld.nm.gov/cannabis/",
+    "regulatory_body": "Cannabis Control Division",
+    "regulatory_notes": "Recreational since 2021 with rapid market growth. No license caps create competitive dynamics.",
+    "faqs": [
+      {"question": "Is cannabis legal in New Mexico?", "answer": "Yes. New Mexico legalized recreational cannabis in 2021 through the Cannabis Regulation Act. Adult-use sales began April 2022. Adults 21+ can purchase up to 2 ounces of flower."},
+      {"question": "Does New Mexico cap cannabis licenses?", "answer": "No. New Mexico does not cap the number of cannabis licenses, making it one of the more accessible markets for new operators. This has led to rapid growth in dispensary openings across the state."},
+      {"question": "What makes New Mexico's market attractive?", "answer": "No license caps, relatively low startup costs compared to coastal states, strong tourist traffic in areas like Santa Fe and Albuquerque, and proximity to Texas (where cannabis remains illegal) all drive demand."}
+    ]
+  },
+  {
+    "name": "New York",
+    "abbrev": "NY",
+    "slug": "new-york",
+    "legal_status": "recreational",
+    "legal_since": "2021",
+    "license_url": "https://cannabis.ny.gov/",
+    "regulatory_body": "Office of Cannabis Management (OCM)",
+    "regulatory_notes": "Massive potential market with troubled rollout. Social equity focused but slow to license.",
+    "faqs": [
+      {"question": "Is cannabis legal in New York?", "answer": "Yes. New York legalized recreational cannabis in 2021 via the Marijuana Regulation and Taxation Act (MRTA). The state prioritizes social equity applicants and individuals with prior cannabis convictions for licensing."},
+      {"question": "Why has New York's cannabis rollout been slow?", "answer": "Legal challenges to the licensing process, disputes over social equity implementation, and competition from a large illicit market have slowed New York's adult-use rollout. The state is working through a backlog of license applications."},
+      {"question": "How big could New York's cannabis market be?", "answer": "New York is projected to become one of the largest cannabis markets in the US, potentially generating $4-7 billion in annual sales when fully operational. The state's population of 20 million and tourism industry create massive demand."}
+    ]
+  },
+  {
+    "name": "Ohio",
+    "abbrev": "OH",
+    "slug": "ohio",
+    "legal_status": "recreational",
+    "legal_since": "2023",
+    "license_url": "https://www.com.ohio.gov/cannabis",
+    "regulatory_body": "Division of Cannabis Control",
+    "regulatory_notes": "Recreational approved by voters in 2023. Large market with existing medical infrastructure.",
+    "faqs": [
+      {"question": "Is cannabis legal in Ohio?", "answer": "Yes. Ohio voters approved recreational cannabis in 2023 via Issue 2. Adults 21+ can possess up to 2.5 ounces of flower. The state is building its adult-use regulatory framework on top of its existing medical program."},
+      {"question": "When did Ohio start recreational cannabis sales?", "answer": "Ohio began converting existing medical dispensaries to dual-use in 2024, with new adult-use licenses being issued on a rolling basis through the Division of Cannabis Control."},
+      {"question": "What makes Ohio's cannabis market significant?", "answer": "Ohio is the seventh most populous state with a strong existing medical cannabis infrastructure. Its central location and lack of legal markets in neighboring states (except Michigan) creates significant demand potential."}
+    ]
+  },
+  {
+    "name": "Oklahoma",
+    "abbrev": "OK",
+    "slug": "oklahoma",
+    "legal_status": "medical",
+    "legal_since": "2018",
+    "license_url": "https://omma.ok.gov/",
+    "regulatory_body": "Oklahoma Medical Marijuana Authority (OMMA)",
+    "regulatory_notes": "Most accessible medical market in the US. No license caps led to massive oversupply.",
+    "faqs": [
+      {"question": "Is cannabis legal in Oklahoma?", "answer": "Medical cannabis is legal in Oklahoma since 2018. Recreational legalization was rejected by voters in 2023. Oklahoma has one of the largest and most accessible medical cannabis programs in the country."},
+      {"question": "Why does Oklahoma have so many cannabis licenses?", "answer": "Oklahoma placed no caps on licenses and had relatively low barriers to entry, resulting in over 10,000 licensed businesses. This created massive oversupply and price compression, with flower prices dropping below $1 per gram wholesale."},
+      {"question": "What's the current state of Oklahoma's cannabis market?", "answer": "The market is consolidating rapidly. Many small operators are closing due to oversupply, and the state has increased enforcement against unlicensed operations. Ancillary service providers face a challenging but large client base."}
+    ]
+  },
+  {
+    "name": "Oregon",
+    "abbrev": "OR",
+    "slug": "oregon",
+    "legal_status": "recreational",
+    "legal_since": "2014",
+    "license_url": "https://www.oregon.gov/olcc/marijuana/Pages/default.aspx",
+    "regulatory_body": "Oregon Liquor and Cannabis Commission (OLCC)",
+    "regulatory_notes": "Mature market with significant oversupply. Pioneer in craft cannabis and psilocybin services.",
+    "faqs": [
+      {"question": "Is cannabis legal in Oregon?", "answer": "Yes. Oregon legalized recreational cannabis in 2014 via Measure 91. Adults 21+ can purchase up to one ounce from licensed retailers. Oregon is known for high-quality craft cannabis and competitive pricing."},
+      {"question": "What challenges does Oregon's cannabis market face?", "answer": "Chronic oversupply has driven prices to some of the lowest in the country, putting pressure on cultivators and processors. The state has also faced challenges with product diversion to illegal markets in other states."},
+      {"question": "What's unique about Oregon's cannabis regulations?", "answer": "Oregon allows outdoor cultivation, has relatively accessible licensing, and was one of the first states to allow interstate cannabis transfer discussions. The state also legalized psilocybin services, creating crossover opportunities for cannabis operators."}
+    ]
+  },
+  {
+    "name": "Pennsylvania",
+    "abbrev": "PA",
+    "slug": "pennsylvania",
+    "legal_status": "medical",
+    "legal_since": "2016",
+    "license_url": "https://www.health.pa.gov/topics/programs/Medical%20Marijuana/Pages/Medical%20Marijuana.aspx",
+    "regulatory_body": "Department of Health",
+    "regulatory_notes": "Large medical market with limited licenses. Recreational legalization being debated.",
+    "faqs": [
+      {"question": "Is cannabis legal in Pennsylvania?", "answer": "Medical cannabis is legal in Pennsylvania since 2016. Recreational cannabis is not yet legal, though legislation has been introduced multiple times. The medical program serves over 400,000 registered patients."},
+      {"question": "How is Pennsylvania's medical cannabis market structured?", "answer": "Pennsylvania uses a limited-license model with roughly 30 grower-processors and 60+ dispensary permits. The market is dominated by large multi-state operators. Vertical integration is common."},
+      {"question": "Will Pennsylvania legalize recreational cannabis?", "answer": "Recreational legalization is actively being discussed in the state legislature. Governor Shapiro has expressed support. Many operators are positioning for potential adult-use by building out existing medical infrastructure."}
+    ]
+  },
+  {
+    "name": "Rhode Island",
+    "abbrev": "RI",
+    "slug": "rhode-island",
+    "legal_status": "recreational",
+    "legal_since": "2022",
+    "license_url": "https://dbr.ri.gov/cannabis",
+    "regulatory_body": "Cannabis Control Commission",
+    "regulatory_notes": "Small state with recreational sales starting December 2022. Limited but growing market.",
+    "faqs": [
+      {"question": "Is cannabis legal in Rhode Island?", "answer": "Yes. Rhode Island legalized recreational cannabis in 2022 via the Rhode Island Cannabis Act. Adult-use sales began in December 2022. Adults 21+ can possess up to one ounce."},
+      {"question": "How big is Rhode Island's cannabis market?", "answer": "Rhode Island is a small state with about 1.1 million residents, but benefits from tourism and proximity to Massachusetts and Connecticut cannabis markets. The market is growing steadily."},
+      {"question": "What license types does Rhode Island offer?", "answer": "Rhode Island offers cultivator, manufacturer, retailer, and compassion center licenses. The state includes hybrid licenses for existing medical operators and new adult-use licenses with social equity provisions."}
+    ]
+  },
+  {
+    "name": "Vermont",
+    "abbrev": "VT",
+    "slug": "vermont",
+    "legal_status": "recreational",
+    "legal_since": "2018",
+    "license_url": "https://ccb.vermont.gov/",
+    "regulatory_body": "Cannabis Control Board",
+    "regulatory_notes": "First state to legalize through legislature (2018). Retail sales started in 2022. Small craft market.",
+    "faqs": [
+      {"question": "Is cannabis legal in Vermont?", "answer": "Yes. Vermont legalized cannabis possession in 2018 through legislative action (first state to do so) and approved commercial sales in 2020. Retail sales began in October 2022."},
+      {"question": "What makes Vermont's cannabis market unique?", "answer": "Vermont emphasizes small-scale craft cannabis production. The market is small but focuses on quality over volume. The state's brand identity aligns with its farm-to-table food culture."},
+      {"question": "What are Vermont's cannabis license types?", "answer": "Vermont offers cultivator (tiered by canopy size), manufacturer, retailer, testing lab, and integrated license types. The state also offers outdoor and mixed-light cultivation tiers."}
+    ]
+  },
+  {
+    "name": "Virginia",
+    "abbrev": "VA",
+    "slug": "virginia",
+    "legal_status": "recreational",
+    "legal_since": "2021",
+    "license_url": "https://www.cca.virginia.gov/",
+    "regulatory_body": "Cannabis Control Authority",
+    "regulatory_notes": "Possession legal since 2021. Retail sales framework still developing.",
+    "faqs": [
+      {"question": "Is cannabis legal in Virginia?", "answer": "Possession of up to one ounce has been legal since 2021 for adults 21+. Commercial sales are being developed. Medical cannabis is available through a limited number of pharmaceutical processors."},
+      {"question": "When will Virginia have retail cannabis sales?", "answer": "Virginia is working through its regulatory framework for adult-use sales. The state has faced political challenges in establishing a commercial market despite legalizing possession. Check the Cannabis Control Authority for current timelines."},
+      {"question": "What opportunities exist in Virginia's cannabis market?", "answer": "Virginia's position as the largest state by population in the Southeast with legal possession creates significant pent-up demand. Early movers in ancillary services are positioning for when retail sales launch."}
+    ]
+  },
+  {
+    "name": "Washington",
+    "abbrev": "WA",
+    "slug": "washington",
+    "legal_status": "recreational",
+    "legal_since": "2012",
+    "license_url": "https://lcb.wa.gov/mjlicense/marijuana-licensing",
+    "regulatory_body": "Liquor and Cannabis Board (LCB)",
+    "regulatory_notes": "One of the first two states to legalize (2012). Mature, competitive market with established regulations.",
+    "faqs": [
+      {"question": "Is cannabis legal in Washington?", "answer": "Yes. Washington legalized recreational cannabis in 2012 via Initiative 502, alongside Colorado. Adults 21+ can purchase up to one ounce of flower, 7g of concentrate, or 16oz of edibles."},
+      {"question": "How mature is Washington's cannabis market?", "answer": "Washington is one of the most mature cannabis markets in the US with over a decade of legal sales. The market has seen significant consolidation, price compression, and regulatory refinement."},
+      {"question": "What are Washington's cannabis license types?", "answer": "Washington offers producer (cultivation), processor (manufacturing), and retailer licenses through the Liquor and Cannabis Board. The state prohibits vertical integration, requiring separate entities for production and retail."}
+    ]
+  },
+  {
+    "name": "Hawaii",
+    "abbrev": "HI",
+    "slug": "hawaii",
+    "legal_status": "medical",
+    "legal_since": "2000",
+    "license_url": "https://medicalmarijuana.hawaii.gov/",
+    "regulatory_body": "Department of Health",
+    "regulatory_notes": "Medical since 2000. Limited dispensary licenses. Island geography creates unique supply chain dynamics.",
+    "faqs": [
+      {"question": "Is cannabis legal in Hawaii?", "answer": "Medical cannabis is legal in Hawaii since 2000. The state has a limited dispensary program with 8 licensees operating across the islands. Recreational legalization has been debated but not yet passed."},
+      {"question": "What makes Hawaii's cannabis market unique?", "answer": "Island geography means everything must be grown and processed locally. No imports are possible. This creates unique supply chain challenges but also protects local operators from outside competition."},
+      {"question": "How many patients use medical cannabis in Hawaii?", "answer": "Hawaii has approximately 30,000 registered medical cannabis patients. The patient population is growing, and the state has expanded qualifying conditions over time."}
+    ]
+  },
+  {
+    "name": "Louisiana",
+    "abbrev": "LA",
+    "slug": "louisiana",
+    "legal_status": "medical",
+    "legal_since": "2015",
+    "license_url": "https://ldaf.louisiana.gov/",
+    "regulatory_body": "Louisiana Department of Agriculture and Forestry",
+    "regulatory_notes": "Medical since 2015 with limited licenses. Decriminalized possession in some jurisdictions.",
+    "faqs": [
+      {"question": "Is cannabis legal in Louisiana?", "answer": "Medical cannabis is legal in Louisiana since 2015. The state recently decriminalized possession of small amounts. Only two cultivation licenses exist (tied to university agriculture programs), making it one of the most restricted markets."},
+      {"question": "How does Louisiana's cannabis program work?", "answer": "Louisiana's program is highly restricted with cultivation limited to two university-affiliated growers (LSU and Southern University). Product is distributed through a network of licensed pharmacies. The program has expanded qualifying conditions significantly."},
+      {"question": "What opportunities exist in Louisiana's cannabis industry?", "answer": "Ancillary services like consulting, compliance, legal, and security are the primary opportunities given the restricted license structure. If the state expands to recreational, early-positioned service providers will have a significant advantage."}
+    ]
+  },
+  {
+    "name": "Mississippi",
+    "abbrev": "MS",
+    "slug": "mississippi",
+    "legal_status": "medical",
+    "legal_since": "2022",
+    "license_url": "https://msdh.ms.gov/page/30,0,420.html",
+    "regulatory_body": "Mississippi State Department of Health",
+    "regulatory_notes": "Medical cannabis program launched 2022. Growing market in the Southeast.",
+    "faqs": [
+      {"question": "Is cannabis legal in Mississippi?", "answer": "Medical cannabis is legal in Mississippi since 2022 when the Mississippi Medical Cannabis Act was signed into law. Qualifying patients can obtain cannabis from licensed dispensaries."},
+      {"question": "How many cannabis licenses has Mississippi issued?", "answer": "Mississippi has issued licenses for cultivators, processors, testing facilities, and dispensaries. The program is still in its early stages with the market developing quickly."},
+      {"question": "What qualifying conditions does Mississippi recognize?", "answer": "Mississippi recognizes over 20 qualifying conditions including cancer, PTSD, chronic pain, epilepsy, multiple sclerosis, and several other debilitating conditions. Patients must obtain a recommendation from a licensed physician."}
+    ]
+  },
+  {
+    "name": "North Dakota",
+    "abbrev": "ND",
+    "slug": "north-dakota",
+    "legal_status": "medical",
+    "legal_since": "2016",
+    "license_url": "https://www.health.nd.gov/mm",
+    "regulatory_body": "North Dakota Department of Health and Human Services",
+    "regulatory_notes": "Medical since 2016. Small market with limited licenses.",
+    "faqs": [
+      {"question": "Is cannabis legal in North Dakota?", "answer": "Medical cannabis is legal in North Dakota since 2016. Recreational legalization was rejected by voters in 2018 and 2022. The medical program has limited licenses and a small patient population."},
+      {"question": "How is North Dakota's medical cannabis program structured?", "answer": "North Dakota licenses a limited number of manufacturing facilities and dispensaries. The program serves a small patient population given the state's overall population of about 780,000."},
+      {"question": "What are North Dakota's cannabis testing requirements?", "answer": "North Dakota requires testing for potency, pesticides, residual solvents, heavy metals, and microbial contaminants. All products must pass testing before being available for patient purchase."}
+    ]
+  },
+  {
+    "name": "South Dakota",
+    "abbrev": "SD",
+    "slug": "south-dakota",
+    "legal_status": "medical",
+    "legal_since": "2020",
+    "license_url": "https://doh.sd.gov/cannabis/",
+    "regulatory_body": "South Dakota Department of Health",
+    "regulatory_notes": "Medical since 2020. Recreational measure passed by voters but overturned by courts.",
+    "faqs": [
+      {"question": "Is cannabis legal in South Dakota?", "answer": "Medical cannabis is legal since 2020. Voters approved recreational legalization in 2020 but it was overturned by the state Supreme Court. A subsequent recreational ballot measure failed in 2022."},
+      {"question": "How does South Dakota's medical program work?", "answer": "South Dakota licenses cultivators, manufacturers, dispensaries, and testing facilities for medical cannabis. The program serves qualifying patients with a state-issued registry card."},
+      {"question": "What are the prospects for recreational cannabis in South Dakota?", "answer": "Recreational legalization remains uncertain after court challenges and a failed 2022 ballot measure. Advocacy groups continue to push for adult-use access. The medical program continues to expand."}
+    ]
+  },
+  {
+    "name": "Utah",
+    "abbrev": "UT",
+    "slug": "utah",
+    "legal_status": "medical",
+    "legal_since": "2018",
+    "license_url": "https://medicalcannabis.utah.gov/",
+    "regulatory_body": "Center for Medical Cannabis",
+    "regulatory_notes": "Restrictive medical program. Limited licenses with pharmacy-style dispensing model.",
+    "faqs": [
+      {"question": "Is cannabis legal in Utah?", "answer": "Medical cannabis is legal in Utah since 2018 via Proposition 2 (later modified by the legislature). The program is relatively restrictive with limited licenses and a pharmacy-style dispensing model."},
+      {"question": "How restrictive is Utah's cannabis program?", "answer": "Utah has one of the most restrictive medical programs in the country. The state limits the number of cultivation, processing, and pharmacy licenses. Products are dispensed in dosage forms through medical cannabis pharmacies rather than traditional dispensaries."},
+      {"question": "What qualifying conditions does Utah recognize?", "answer": "Utah recognizes conditions including HIV/AIDS, Alzheimer's, ALS, cancer, Crohn's disease, epilepsy, multiple sclerosis, PTSD, chronic pain, autism, and terminal illness with a prognosis of less than six months."}
+    ]
+  },
+  {
+    "name": "West Virginia",
+    "abbrev": "WV",
+    "slug": "west-virginia",
+    "legal_status": "medical",
+    "legal_since": "2017",
+    "license_url": "https://dhhr.wv.gov/bph/Pages/Medical-Cannabis.aspx",
+    "regulatory_body": "Office of Medical Cannabis",
+    "regulatory_notes": "Medical since 2017 with slow rollout. Limited licenses and patient population.",
+    "faqs": [
+      {"question": "Is cannabis legal in West Virginia?", "answer": "Medical cannabis is legal in West Virginia since 2017. The program had a slow rollout with the first dispensaries opening in late 2021. Adults with qualifying conditions can obtain cannabis through licensed dispensaries."},
+      {"question": "How is West Virginia's medical program structured?", "answer": "West Virginia licenses growers, processors, and dispensaries with a limited number of each. The program serves patients with serious medical conditions and requires physician certification."},
+      {"question": "What opportunities exist in West Virginia's cannabis market?", "answer": "The market is still in early stages with room for ancillary service providers. Testing labs, compliance consultants, and security companies are needed as the market develops. The state borders several states without legal programs."}
+    ]
+  },
+  {
+    "name": "Arkansas",
+    "abbrev": "AR",
+    "slug": "arkansas",
+    "legal_status": "medical",
+    "legal_since": "2016",
+    "license_url": "https://www.healthy.arkansas.gov/programs-services/topics/medical-marijuana",
+    "regulatory_body": "Arkansas Department of Health",
+    "regulatory_notes": "Medical since 2016. Limited licenses. Recreational narrowly failed in 2022.",
+    "faqs": [
+      {"question": "Is cannabis legal in Arkansas?", "answer": "Medical cannabis is legal in Arkansas since 2016 via Issue 6. Recreational legalization narrowly failed in 2022. The state has a limited number of cultivation and dispensary licenses."},
+      {"question": "How many cannabis licenses does Arkansas have?", "answer": "Arkansas has 8 cultivation licenses and 40 dispensary licenses. The limited license structure keeps competition manageable but creates barriers to entry. License values remain high."},
+      {"question": "What are Arkansas' cannabis testing requirements?", "answer": "Arkansas requires independent testing for potency, pesticides, heavy metals, residual solvents, and microbial contamination. Testing labs must be licensed by the state and maintain appropriate accreditation."}
+    ]
+  },
+  {
+    "name": "New Hampshire",
+    "abbrev": "NH",
+    "slug": "new-hampshire",
+    "legal_status": "medical",
+    "legal_since": "2013",
+    "license_url": "https://www.dhhs.nh.gov/programs-services/medicinal-and-adult-use-cannabis",
+    "regulatory_body": "Department of Health and Human Services",
+    "regulatory_notes": "Medical since 2013. Decriminalized possession. Recreational legalization debated annually.",
+    "faqs": [
+      {"question": "Is cannabis legal in New Hampshire?", "answer": "Medical cannabis is legal since 2013. Possession of small amounts has been decriminalized. New Hampshire remains the only New England state without full recreational legalization, though bills are introduced annually."},
+      {"question": "How does New Hampshire's medical program work?", "answer": "New Hampshire licenses a limited number of Alternative Treatment Centers (ATCs) that cultivate, process, and dispense medical cannabis. The program serves qualifying patients with physician certification."},
+      {"question": "Will New Hampshire legalize recreational cannabis?", "answer": "Recreational bills have been introduced annually with increasing legislative support. Being surrounded by legal-recreation states (Maine, Massachusetts, Vermont) creates pressure to legalize and capture tax revenue."}
+    ]
+  }
+]
