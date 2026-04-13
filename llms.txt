@@ -1,0 +1,40 @@
+# Cannabisers
+
+> Cannabisers is a free B2B directory for the cannabis industry's ancillary services ecosystem. It helps cannabis operators (dispensary owners, cultivators, processors, distributors) find testing labs, attorneys, compliance consultants, packaging companies, and 15 other service categories across 36 legal U.S. states. Every listing is verified against state licensing databases. No paywall, no gated leads, no middleman.
+
+The directory covers 18 service categories including testing labs, compliance consultants, cannabis attorneys, packaging and labeling, security services, HVAC and climate control, lighting and equipment, insurance providers, accounting and tax, POS and software, marketing and branding, and more. Data is sourced from state cannabis licensing databases, business registrations, and industry association membership lists.
+
+## Core Pages
+
+- [Homepage](https://cannabisers.com/): Cannabis service directory with 18 categories across 36 legal states
+- [About](https://cannabisers.com/about/): Directory mission, data sourcing, and listing methodology
+- [Contact](https://cannabisers.com/contact/): Claim a listing or submit a new business
+- [Newsletter](https://cannabisers.com/newsletter/): Weekly digest of new listings, regulatory changes, and industry updates
+- [Privacy Policy](https://cannabisers.com/privacy/): Data handling and privacy policy
+- [Terms of Service](https://cannabisers.com/terms/): Terms of use
+
+## Service Categories
+
+- [Testing Labs](https://cannabisers.com/categories/testing-labs/): Cannabis testing and quality assurance labs by state
+- [Cannabis Attorneys](https://cannabisers.com/categories/cannabis-attorneys/): Cannabis-specialized legal services
+- [Compliance Consultants](https://cannabisers.com/categories/compliance-consultants/): Regulatory compliance consulting
+- [Accounting & Tax](https://cannabisers.com/categories/accounting-tax/): Cannabis accounting, 280E tax planning, and bookkeeping
+- [Banking & Financial Services](https://cannabisers.com/categories/banking-financial-services/): Cannabis-friendly banking and financial services
+- [Insurance Providers](https://cannabisers.com/categories/insurance-providers/): Cannabis business insurance
+- [Security Services](https://cannabisers.com/categories/security-services/): Cannabis facility security and compliance
+- [Construction & Build-Out](https://cannabisers.com/categories/construction-build-out/): Cultivation facility and dispensary construction
+
+## Guides
+
+- [280E Tax Planning for Cannabis](https://cannabisers.com/guides/280e-tax-planning-cannabis/): Guide to Section 280E tax compliance for cannabis businesses
+- [Cannabis Banking Guide](https://cannabisers.com/guides/cannabis-banking-guide/): How to find cannabis-friendly banking services
+- [Cannabis Compliance by State](https://cannabisers.com/guides/cannabis-compliance-state-guide/): State-by-state compliance requirements
+- [Cannabis Insurance Guide](https://cannabisers.com/guides/cannabis-insurance-guide/): Insurance coverage options for cannabis operators
+- [Cannabis Packaging Compliance](https://cannabisers.com/guides/cannabis-packaging-compliance/): Packaging and labeling regulations by state
+
+## Browse by State
+
+- [California](https://cannabisers.com/states/california/): Cannabis service providers in California
+- [Colorado](https://cannabisers.com/states/colorado/): Cannabis service providers in Colorado
+- [Arizona](https://cannabisers.com/states/arizona/): Cannabis service providers in Arizona
+- [All States](https://cannabisers.com/states/): Browse all 36 legal states
