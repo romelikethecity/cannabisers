@@ -1,5 +1,54 @@
 # Cannabisers Build Handoff
 
+## Current Status (Updated Feb 27, 2026)
+
+### What's Built
+- **720 pages generated**, zero errors, initial git commit (`ee854a7`)
+- **Build system:** `python3 scripts/build.py` — generates all pages from JSON data
+- **Page types:** 1 homepage + 19 category + 37 state + 648 state+category money pages + 9 guide pages + 5 static + 1 404 + sitemap + robots + CNAME
+- **8 editorial guides** (1,200+ words each): Testing labs, Insurance, 280E tax, Compliance, Banking, Packaging, Hiring, Security, POS systems
+- **Branding:** Dark theme (botanical green + warm amber), DM Sans 700 headlines, IBM Plex Mono badges
+- **SEO:** Unique title/desc per page, JSON-LD @graph schemas (Organization, WebSite, Article, FAQPage, BreadcrumbList, LocalBusiness), sitemap.xml, robots.txt
+- **OG social image:** 1200x630 PNG at `/assets/social/og-default.png`
+- **Google Analytics:** Placeholder in templates.py, set `GA_MEASUREMENT_ID` when ready
+- **seed_data.py:** Ready to populate listings via Outscraper (Google Places)
+
+### Design Decisions Made
+- **Headline:** "The testing labs, attorneys, and consultants cannabis operators use" (Harry Dry style)
+- **Subtitle:** "18 ancillary services cannabis operators need, organized by state."
+- **Font:** DM Sans 700 for all headlines (Instrument Serif rejected as too editorial for B2B ICP)
+- **Category icons:** 18 inline SVG icons in `CATEGORY_ICONS` dict (templates.py)
+- **Stats:** DM Sans 700 (not mono) for hero stat values
+- **No personal name** in any generated/deployed files
+
+### What Needs Doing Next
+1. **Seed listings data** — Run `seed_data.py` to populate listings.json via Outscraper. Start with CA + CO as test, then expand. Can't publish a directory with 0 listings.
+2. **Newsletter strategy** — Scoped (see below) but needs platform decision (Beehiiv vs Resend vs Substack) and Formspree IDs for capture forms.
+3. **Create GitHub repo** — `gh repo create romelikethecity/cannabisers --private --source=.` then push
+4. **GitHub Pages** — Enable after repo creation, point custom domain
+5. **Formspree** — Create 3 form IDs (contact, newsletter, claim) and set in templates.py
+6. **Google Analytics** — Create GA4 property, set `GA_MEASUREMENT_ID` in templates.py
+7. **Visual/mobile review** — Full page check at localhost:8083, test 375px mobile
+
+### Newsletter Strategy (Scoped)
+- **Cadence:** Weekly
+- **Content:** 1 regulatory update (the opener), 3-5 new/featured listings, 1 guide link
+- **Format:** 500-800 words, specific subject lines ("3 new testing labs in CA + Colorado's new packaging rules")
+- **Monetization:** Sponsored listing slots ($200-500/issue)
+- **Platform:** TBD (Beehiiv, Resend, or Substack)
+- **Source:** State cannabis authority RSS feeds + new listings from seed pipeline
+
+### Key Technical Notes
+- **CSS version:** `?v=2` — bump `CSS_VERSION` in templates.py on every CSS edit, then rebuild
+- **Build:** `python3 scripts/build.py` from project root — generates ALL pages
+- **Preview:** `python3 -m http.server 8083` from project root
+- **Guides:** Inline in build.py `GUIDES` array (move to JSON later if >15)
+- **Related categories:** Uses `content_pillar` field for intelligent linking
+- **Money page FAQs:** Generic language when 0 listings, count-specific when populated
+- **Logo SVGs:** Use DM Sans font (was Instrument Serif, updated Feb 27)
+
+---
+
 ## What This Is
 Cannabisers (cannabisers.com) is a B2B directory for cannabis industry ancillary services. Cannabis operators use it to find testing labs, compliance consultants, attorneys, packaging companies, and 14 other service categories across 30+ legal US states. No existing directory owns this space — the closest competitors are MJBizDaily's directory (an afterthought to their media business, ~2,000 thin listings) and Cannabiz Media (a $3,600/yr CRM database, not a discovery directory).
 
