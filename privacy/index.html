@@ -259,5 +259,35 @@
     </footer>
 
     <script src="/js/main.js" defer></script>
+<script>
+function handleNewsletterSignup(e, form) {
+    e.preventDefault();
+    var btn = form.querySelector('button');
+    var origText = btn.textContent;
+    var msg = form.querySelector('.newsletter-form__msg');
+    var email = form.querySelector('input[name="email"]').value.trim();
+    if (!email) return;
+    btn.disabled = true;
+    btn.textContent = 'Sending...';
+    if (msg) { msg.className = 'newsletter-form__msg'; msg.textContent = ''; }
+    fetch('https://newsletter-subscribe.rome-workers.workers.dev/subscribe', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({email: email, list: 'cannabisers'})
+    })
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+        if (data.ok) {
+            if (msg) { msg.className = 'newsletter-form__msg newsletter-form__msg--success'; msg.textContent = "You\'re in. Updates hit your inbox weekly."; }
+            form.querySelector('input[name="email"]').value = '';
+            if (typeof gtag === 'function') { gtag('event', 'newsletter_signup', {event_category: 'newsletter', event_label: 'inline_form'}); }
+        } else {
+            if (msg) { msg.className = 'newsletter-form__msg newsletter-form__msg--error'; msg.textContent = data.error || 'Something went wrong. Try again.'; }
+        }
+    })
+    .catch(function() { if (msg) { msg.className = 'newsletter-form__msg newsletter-form__msg--error'; msg.textContent = 'Something went wrong. Try again.'; } })
+    .finally(function() { btn.disabled = false; btn.textContent = origText; });
+}
+</script>
 </body>
 </html>
