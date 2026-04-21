@@ -1038,6 +1038,15 @@ strong { color: var(--color-text); }
   flex-shrink: 0;
 }
 
+.newsletter-form__msg {
+  font-size: 0.85rem;
+  margin-top: var(--space-3);
+  min-height: 1.25rem;
+}
+
+.newsletter-form__msg--success { color: var(--color-success); }
+.newsletter-form__msg--error { color: var(--color-error); }
+
 
 /* -----------------------------------------------------------------------------
    Claim CTA
