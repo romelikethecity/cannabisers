@@ -21,3 +21,7 @@ __pycache__/
 # Temp
 *.log
 *.tmp
+
+scripts/
+*.md
+!README.md
